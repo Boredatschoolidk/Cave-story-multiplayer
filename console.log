@@ -1,0 +1,36 @@
+[05/24/2024 10:40:42] [Init             ] Initialized SDL2 v2.0.9 (v2009)
+[05/24/2024 10:40:42] [Init             ] Initialized SDL_Net v2.0.1 (v2001)
+[05/24/2024 10:40:44] [PxLang/Compiler  ] 04PxLang checksum mismatch! Recompiling...
+[05/24/2024 10:40:44] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
+[05/24/2024 10:40:44] [Mod/NPCTable     ] Loaded 420 NPC functions.
+[05/24/2024 10:40:44] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
+[05/24/2024 10:40:44] [Mod              ] Loading mod "Cavestory Multiplayer" by Pixel / Clay (v1.0.0.0)
+[05/24/2024 10:40:45] [ResourceManager  ] 08ERROR: GameResource::LoadFromFile() - Failed to load "C:/Users/23jujohnsonidehen/Downloads/cav/data/Stage/StreamTest.pxcm": ("File does not exist")
+[05/24/2024 10:40:45] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/GuiStyle.cfg"
+[05/24/2024 10:40:45] [Mod              ] Loaded game DLL "C:/Users/23jujohnsonidehen/Downloads/cav/data/data.dll".
+[05/24/2024 10:40:45] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
+[05/24/2024 10:42:10] [MatchMaker       ] 08Failed to connect to website for matchmaker url retrieval.
+[05/24/2024 10:42:10] [Server/Ranks     ] 0BWARNING: CaveNet::Server::Ranks::LoadRanks() - Failed to find file "data/AdminList.cfg".
+[05/24/2024 10:42:10] [Server           ] Opened a server on port # 28000.
+[05/24/2024 10:42:10] [NetSocket        ] Binded onto port 0
+[05/24/2024 10:42:10] [Client           ] Connecting to 127.0.0.1:28000
+[05/24/2024 10:42:10] [Client           ] Sending punch packet to 127.0.0.1:28000...
+[05/24/2024 10:42:10] [Server/Clients   ] Client joining from IP 127.0.0.1 (Local)
+[05/24/2024 10:42:10] [Server/Clients   ] Client accepted: Player (127.0.0.1:64453), initializing client
+[05/24/2024 10:42:10] [Mod/NPCTable     ] Loaded 420 NPC functions.
+[05/24/2024 10:42:10] [Mod              ] Loading mod "Cavestory Multiplayer" by Pixel / Clay (v1.0.0.0)
+[05/24/2024 10:42:11] [ResourceManager  ] 08ERROR: GameResource::LoadFromFile() - Failed to load "C:/Users/23jujohnsonidehen/Downloads/cav/data/Stage/StreamTest.pxcm": ("File does not exist")
+[05/24/2024 10:42:11] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/GuiStyle.cfg"
+[05/24/2024 10:42:11] [Mod/TextScript   ] 08Failed to register TextScript command <PUP!
+[05/24/2024 10:42:11] [Mod              ] Loaded game DLL "C:/Users/23jujohnsonidehen/Downloads/cav/data/data.dll".
+[05/24/2024 10:42:11] [Server/Lobby     ] Entering lobby.
+[05/24/2024 10:42:11] [Server/Client    ] Client finalized: Player (127.0.0.1)
+[05/24/2024 10:42:11] [Client           ] Our rank was set to "Host".
+[05/24/2024 10:42:13] [Server/Lobby     ] Player (127.0.0.1) is ready. Players ready: 1 / 1 (100%)
+[05/24/2024 10:42:16] [Server/Lobby     ] Exiting lobby.
+[05/24/2024 10:44:59] [Mod/NPCTable     ] Loaded 420 NPC functions.
+[05/24/2024 10:44:59] [Mod              ] Loading mod "Cavestory Multiplayer" by Pixel / Clay (v1.0.0.0)
+[05/24/2024 10:45:00] [ResourceManager  ] 08ERROR: GameResource::LoadFromFile() - Failed to load "C:/Users/23jujohnsonidehen/Downloads/cav/data/Stage/StreamTest.pxcm": ("File does not exist")
+[05/24/2024 10:45:00] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/GuiStyle.cfg"
+[05/24/2024 10:45:00] [Mod/TextScript   ] 08Failed to register TextScript command <TRS!
+[05/24/2024 10:45:00] [Mod              ] Loaded game DLL "C:/Users/23jujohnsonidehen/Downloads/cav/data/data.dll".
